@@ -139,8 +139,10 @@ if __name__ == "__main__":
     #     jobs_info = json.load(f)
 
     # main(jobs_info)
-
+    
     save_jobs_info_csv('test.json')
+
+    # 添加经验需求，最近活跃等筛选条件的限制
     
 
 
